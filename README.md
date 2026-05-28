@@ -3,10 +3,10 @@
 ## Autonomous Multi-Agent Enterprise Intelligence Platform
 
 AI-native operating system for strategic forecasting, orchestration, telemetry, and autonomous decision support.
-
+🚀 Live Demo: https://strategic-intelligence-os-yhmxwtew2xnrqzp3l2326y.streamlit.app/
 ---
 
-# 🚀 Overview
+# Overview
 
 Strategic Intelligence OS is an AI-native command center designed to transform enterprise intelligence workflows into autonomous, observable, and strategically actionable systems.
 
